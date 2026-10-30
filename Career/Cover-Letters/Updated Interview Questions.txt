@@ -1,0 +1,68 @@
+﻿Thanks for meeting with me. I’m studying how beginners interact with labs and instructions for programming assignments in our CS courses. I’m interested in what helps you start quickly, what slows you down, and how assignment instructions, ZyBooks materials, lectures, accompanying slides, code editors, and terminals affect your ability to understand and take action. I’m not evaluating your programming ability, but the instructions’ ability to communicate what you need.
+
+
+* Participation is voluntary; you may skip any question or stop at any time without penalty.
+
+* I will audio record and take notes for accuracy. No names will appear in anything I write, and I’ll use a pseudonym for your name.
+
+* Estimated time: 20–30 minutes. No payment/extra credit.
+
+* All data will be stored securely and deleted upon project completion.
+
+* Do I have your permission to proceed and record?
+
+
+
+
+
+
+What course(s) are you taking that use zyBooks and autograders?
+
+What’s your usual setup (device, editor/IDE, terminal, LMS tab habits)?
+
+
+
+
+
+
+
+
+   1. When you open a new lab or programming assignment, what do you need to see in the first minute so you can start without guessing?
+
+   2. Tell me about one set of instructions that helped you move forward quickly. What exact sentence or detail made the next step clear?
+
+   3. Describe a set of instructions that slowed you down. What exact sentence or missing detail caused the delay?
+
+   4. For work under time constraints, do you complete tasks more efficiently with many small, numbered steps or with fewer larger steps, and why?
+
+   5. While you work, how often do you switch between the instructions, zyBooks, slides, your code editor, and the terminal, and what change to the page or layout would reduce that switching?
+
+   6. Before you begin a lab, what details must the instructions include so you can work without confusion, such as the file to edit, where to save it, the inputs to use, the exact output format, how to run the provided tests, what to submit, and the deadline?
+
+   7. How should lab or assignment instructions present code and expected output so you can act without guessing, and what parts of those instructions feel like clutter or slow you down?
+
+   8. Which pictures or diagrams actually help you take the next step, which do not help, and why?
+
+   9. When should the instructions include a short reason for a step, and when should they simply tell you what to do, and where should that short reason appear so you will read it?
+
+   10. What makes you trust instructions before you follow them, such as a last-updated note for this semester, a link to the matching zyBooks section, a small sample run that matches the autograder, or a short checklist of what the TA will check?
+
+   11. Name two common mistakes that beginner labs should list with a one-line fix, and quote the exact error text or show the wrong output if you remember it.
+
+   12. What wording style keeps you moving, such as short sentences, plain terms, and the same names across the lab, slides, and starter code, and what wording makes you slow down or doubt yourself?
+
+   13. In zyBooks, which instruction pattern is unclear to you, and how would you rewrite one line so the goal, the input, and the output are obvious?
+
+   14. In lectures and slides, what changes would make hard topics easier to follow, such as one idea per slide, numbered steps, consistent names that match the lab, or a small runnable example?
+
+   15. Where do you lose time clicking or scrolling in the LMS or in zyBooks, and what structure would help you, such as links to each step at the top or keeping everything for one step on a single screen?
+
+   16. How long do labs actually take you compared with the time allowed, and what single change to the instructions would have reduced the time on your last lab?
+
+   17. Have you encountered instructions that did not match the starter files, the autograder, or the zyBooks example? If so, what simple note would have prevented that problem for you?
+
+   18. When you are stuck, why do you open ChatGPT or another AI tool instead of the course materials, and what did the AI give you that the lab or zyBooks did not provide?
+
+   19. How do you check that an AI answer is safe to follow, and what could the lab include so that you would not need to ask AI for that step?
+
+   20. If you could change one thing about how beginner instructions are written in this course, what would you change first, and why?

@@ -1,0 +1,6 @@
+*.pdf -text -diff
+*.PDF -text -diff
+*.docx -text -diff
+*.xlsx -text -diff
+*.zip -text -diff
+*.db -text -diff

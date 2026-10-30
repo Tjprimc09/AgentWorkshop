@@ -1,0 +1,66 @@
+﻿Tyler Prince
+Kansas City, MO | tjprince90@gmail.com | 816.383.1228 | https://www.linkedin.com/in/tyler-ppwc/ |
+
+
+Summary
+
+AI‑900 Certified Computer Science student with 10+ years of entrepreneurial experience designing systems, solving complex operational problems, and delivering client-focused solutions. Skilled in AI‑assisted solo development, using LLMs as a force multiplier for rapid prototyping, debugging, and complex problem‑solving. Currently developing ResumAI, an enterprise‑style AI‑driven resume tailoring platform that integrates Azure OpenAI, Cognitive Search, Cosmos DB, React, and Python using schema‑based extraction, semantic search, and retrieval‑augmented generation pipelines. Pursuing a Bachelor’s in Computer Science at UMKC (4.0 GPA). Open to entry‑level tech roles, internships, and applied AI opportunities.
+
+
+Technical Skills
+
+Programming & Web: HTML, CSS, JavaScript, React (in progress), Python (in progress), Visual Studio Code, GitHub
+
+AI & Cloud: Azure AI & OpenAI, Azure Cosmos DB, Azure Blob Storage, Azure Cognitive Search, Azure NLP, Azure Vision, Azure AI Foundry, Azure ML (fundamentals), Prompt Engineering
+
+Data & Analytics: Google Analytics, UTM Tracking, Hotjar, Lucky Orange
+
+Digital Marketing: Technical SEO, On‑Page Optimization, Google Ads
+
+Tools & Automation: Zapier, Google APIs, HubSpot (basic CRM)
+
+Core Strengths: Systems Thinking, Project Management, Client Communication, Process Optimization
+
+
+Projects
+
+ResumAI (July 2025 – Present)
+AI-assisted solo development of an AI-driven resume tailoring system designed to automate alignment between resumes and job descriptions. The platform ingests job descriptions and resume versions, performs schema-based data extraction for skills, KPIs, and tone, and uses semantic search with vector embeddings and Azure Cognitive Search to surface the most relevant content. A retrieval-augmented generation (RAG) pipeline powered by Azure OpenAI generates tailored resumes. Current build integrates a custom React frontend, Python REST API hosted on Azure Functions, Azure Data Lake for raw file storage, and Cosmos DB for semi-structured JSON documents with embeddings and metadata. Implementing tracking for outcomes such as callbacks and interviews to enable continuous model refinement.
+Repository: https://github.com/Tjprimc09/resumAI
+
+
+Self‑Booking Scheduling App (2025)
+Developed a React‑based scheduling application for a small‑business client booking, integrating Google Calendar API. Used prompt‑assisted coding techniques with ChatGPT to accelerate component development.
+
+
+Agentic AI Advisory System (2023 – 2024)
+Concept lead for an LLM‑based advisory system simulating recursive dialogue among multiple AI personas. Directed behavioral modeling and testing with a certified AI architect.
+Professional Experience
+
+Owner & Operator | Prince Pro Window Cleaning | Kansas City, MO | 2014 – Present
+Built a solo residential service into a multi‑site commercial operation managing projects across 4–12‑story buildings and up to 10 buildings per site. Directed operations, subcontractor coordination, logistics, and client management for large‑scale post‑construction and high‑rise projects. Designed and launched a lead‑generating website using WordPress, HTML, CSS, and SEO to drive consistent inbound growth in a competitive service market. Automated workflows with Zapier and implemented tracking systems (UTM parameters, Google Analytics) to optimize marketing ROI.
+
+
+Director | REACH Digital Positioning | Kansas City, MO | 2016 – Present
+Delivered end‑to‑end digital marketing solutions for small businesses and startups, including custom WordPress websites, technical SEO, and Google Ads campaigns. Used behavioral analytics (Google Analytics, Hotjar, Lucky Orange) to improve UX and conversion paths. Consulted founders on branding, audience positioning, and lead‑funnel strategy to support early‑stage growth.
+
+
+Organizer | 1 Million Cups Kansas City | 2016 – 2018
+Curated weekly events spotlighting early‑stage entrepreneurs, coordinated speakers, and facilitated Q&A sessions with founders and investors. Coached presenters on improving pitch clarity and messaging, fostering productive dialogue in public forums.
+
+
+Co‑Founder & Developer | LaunchItSuccessfully | 2016 – 2019
+Co‑developed a startup accelerator and bootcamp, advising teams on web presence, conversion‑driven design, and early‑stage growth strategies. Led technical consulting for multiple startup teams, bridging business goals with practical implementation.
+
+
+Education
+Bachelor of Science in Computer Science
+University of Missouri–Kansas City | Expected 2028 | GPA: 4.0
+
+
+Certifications
+AI‑900: Microsoft Azure AI Fundamentals (Certified August 2025)
+DB‑900: Microsoft Azure Data Fundamentals (Scheduled September 2025)
+SEO Fundamentals – UC Davis (Coursera)
+Advanced SEO – UC Davis (Coursera)
+Digital Marketing Fundamentals – Google (Coursera)
